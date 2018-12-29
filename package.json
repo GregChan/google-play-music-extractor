@@ -1,0 +1,19 @@
+{
+  "name": "google-play-music-extractor",
+  "version": "0.0.1",
+  "description": "Google Play Music Extractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregChan/google-play-music-extractor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GregChan/google-play-music-extractor/issues"
+  },
+  "homepage": "https://github.com/GregChan/google-play-music-extractor#readme"
+}
