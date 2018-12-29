@@ -23,8 +23,7 @@ let request = window.indexedDB.open('music_12127027415922016482').onsuccess = fu
                 return;
               }
 
-              console.log(track);
-              console.log(track[1], track[3], track[4]);
+              console.log(track[1]+'|'+track[3]+'|'+track[4]);
             });
           };
       });
