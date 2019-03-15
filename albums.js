@@ -16,7 +16,6 @@ lines.forEach(function(line) {
     return;
   }
 
-  console.log(result);
   const {artist, album} = result.groups;
 
   albums.add(`${album} - ${artist}`);
